@@ -7,7 +7,7 @@ npm I
 npx hardhat node(starts blockchain server server - should be running when application in use)
 npx hardhat run scripts/deploy.js --netowrk localhost(one time run. Genrates artifacts folder) 
 npx hardhat run scripts/seeding.js --network locahost(one time run) 
-npm run start(starts server for front end) ```
+npm run start(starts server for front end)```
 
 
 ```Note:
