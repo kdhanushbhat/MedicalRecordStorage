@@ -14,7 +14,7 @@ npm run start(starts server for front end)
 
 ```
 Note:
---> Please keep the hardhat configuration as in hardhat.config.js and src/config.js for the application to pick the right id.`
+--> Please keep the hardhat configuration as in hardhat.config.js and src/config.js for the application to pick the right id.
 --> In case any issue occurs while running app, make sure abi in artifacts/MedicalRecords.json[abi] and src/abi/MedicalRecords.json are the same.
 ```
 
