@@ -15,7 +15,7 @@ contract MedicalRecords {
         string allergies;
         string diagnosis;
         string treatment;
-    }
+    } 
 
     event MedicalRecords__AddRecord(
         uint recordId,

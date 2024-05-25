@@ -7,6 +7,7 @@ Steps:
 npm I
 npx hardhat node(starts blockchain server server - should be running when application in use)
 npx hardhat run scripts/deploy.js --netowrk localhost(one time run. Genrates artifacts folder) 
+Copy address where smart contract is deployed and save it in src/config.json address field.
 npx hardhat run scripts/seeding.js --network locahost(one time run) 
 npm run start(starts server for front end)
 ```
